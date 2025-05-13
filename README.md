@@ -71,7 +71,3 @@ While building VineDOM, I explored several key JavaScript concepts:
 ## Inspiration
 
 This project was inspired by Tsoding's functional programming content on [YouTube](https://www.youtube.com/c/Tsoding) and his GitHub repositories at [https://github.com/tsoding](https://github.com/tsoding). The simplicity and elegance of functional approaches to DOM manipulation motivated me to create this minimal implementation.
-
-## License
-
-MIT License - Feel free to use and modify this code for your projects!
